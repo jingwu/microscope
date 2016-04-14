@@ -10,6 +10,10 @@ var postsData = [
   {
     title: 'The Meteor Book',
     url: 'http://themeteorbook.com'
+  },
+  {
+    title: 'The Meteor Warrior',
+    url: 'http://themeteorwarrior.com'
   }
 ];
 Template.postsList.helpers({
